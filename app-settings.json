@@ -1,0 +1,7 @@
+{
+    "app_name": "Manajemen Absensi",
+    "company_name": "JAVA GROUP",
+    "timezone": "Asia/Jakarta",
+    "work_start_time": "08:00",
+    "receipt_footer": "Data absensi tersimpan lokal di database"
+}

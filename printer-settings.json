@@ -1,0 +1,13 @@
+{
+  "enabled": false,
+  "printer_type": "inkjet",
+  "printer_name": "",
+  "paper_size": "A4",
+  "orientation": "portrait",
+  "copies": 1,
+  "server_side_print": false,
+  "auto_print_attendance": false,
+  "print_header": "Laporan Absensi",
+  "print_footer": "",
+  "receipt_width_mm": 58
+}

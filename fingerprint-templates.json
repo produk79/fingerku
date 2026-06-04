@@ -1,0 +1,21 @@
+[
+    {
+        "id": "fp-1780545991430-33878",
+        "type": "fingerprint-record-metadata",
+        "read_at": "2026-06-04T04:06:31.430Z",
+        "source": "read-finger-record",
+        "device_id": "sn-bwxp183460459",
+        "device_sn": "BWXP183460459",
+        "device_name": "Absen Kantor",
+        "user_id": "70",
+        "uid": "1",
+        "name": "Haris YS",
+        "finger_index": "0",
+        "finger_name": "Jempol Kanan",
+        "status": "ACK / BELUM ADA PAYLOAD",
+        "size_bytes": 8,
+        "ack": 2000,
+        "hash_prefix": "",
+        "note": "Mesin membalas command, tetapi tidak mengirim payload template."
+    }
+]

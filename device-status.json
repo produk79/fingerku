@@ -1,0 +1,41 @@
+{
+    "mesin-1": {
+        "online": false,
+        "message": "Timeout. Port 4370 tidak merespon di 192.168.18.253",
+        "checked_at": "2026-05-21 09:48:09",
+        "result": {
+            "ok": false,
+            "error": "Timeout. Port 4370 tidak merespon di 192.168.18.253"
+        }
+    },
+    "sn-bwxp183460459": {
+        "id": "sn-bwxp183460459",
+        "sn": "BWXP183460459",
+        "name": "Absen Kantor",
+        "address": "192.168.18.200",
+        "port": 4370,
+        "online": true,
+        "message": "Port 4370 terbuka di 192.168.18.200",
+        "checked_at": "2026-06-04T06:39:21.389Z"
+    },
+    "sn-njf7243603623": {
+        "id": "sn-njf7243603623",
+        "sn": "NJF7243603623",
+        "name": "Sablon Absen",
+        "address": "100.82.151.105",
+        "port": 4370,
+        "online": true,
+        "message": "Port 4370 terbuka di 100.82.151.105",
+        "checked_at": "2026-06-04T06:39:21.454Z"
+    },
+    "sn-a4r0174660844": {
+        "id": "sn-a4r0174660844",
+        "sn": "A4R0174660844",
+        "name": "Absen Textile",
+        "address": "100.113.92.55",
+        "port": 4370,
+        "online": false,
+        "message": "Timeout. Port 4370 tidak merespon di 100.113.92.55",
+        "checked_at": "2026-06-04T06:39:23.961Z"
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "executable": "bridge\\ZkEnrollBridge.exe",
+  "timeout_ms": 60000,
+  "mode": "exe",
+  "notes": "Letakkan SDK bridge resmi .NET/C++ di bridge/ZkEnrollBridge.exe lalu aktifkan dari Remote Enroll Center."
+}
